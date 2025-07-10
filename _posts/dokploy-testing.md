@@ -1,7 +1,7 @@
 ---
 title: "This is to test dokploy auto-deployment"
 excerpt: "Emerging from meme culture, this phrase has transcended its crude origins to become a widely recognized comedic interjection. Often deployed for schock value or unexpected humor."
-coverImage: "https://static.wikia.nocookie.net/siivagunner/images/2/20/Deeznuts.jpg/revision/latest?cb=20201208014948"
+coverImage: ""
 date: "2025-07-09T05:35:07.322Z"
 author:
   name: Deezballs
